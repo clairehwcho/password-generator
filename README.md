@@ -4,9 +4,13 @@
 <!-- omit in toc -->
 ## Description
 
-This is a password generator with responsive layouts. User will be presented with a series of prompts to choose password criteria such as the length of password or the character type to be included in the password. The input will be validated, and a random string of password that matches the selected criteria will be generated <br>
-You can check out the deployed application from the link below: <br>
-[https://clairehwcho.github.io/portfolio/](https://clairehwcho.github.io/portfolio/)
+This is a password generator with responsive layouts.
+User will be presented with a series of prompts to choose password criteria such as the length of password or the character type to be included in the password. The input will be validated, and a random string of password that matches the selected criteria will be generated
+<br>
+<br>
+You can check out the deployed application from the link below:
+<br>
+[https://clairehwcho.github.io/password-generator/](https://clairehwcho.github.io/password-generator/)
 
 <!-- omit in toc -->
 ## Table of Contents
