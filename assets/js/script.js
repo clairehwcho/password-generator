@@ -19,7 +19,7 @@ function generatePassword () {
   // Use a flag variable and while loop to check if user input for the length of the password is valid.
   var lengthError = true;
   while (lengthError) {
-    // Prompt user to enter the length of the password
+    // Prompt user to enter the length of the password.
     var askLength = parseInt(window.prompt("Enter the length of the passsword between 8 and 128 characters."));
 
     // If input is smaller than 8 or greater than 128, ask user to re-enter.
@@ -138,7 +138,7 @@ function generatePassword () {
   return newPassword;
 }
 
-// Write password to the #password input
+// Write password to the #password input.
 function writePassword () {
   var password = generatePassword();
   var passwordText = document.querySelector("#password");
@@ -147,5 +147,5 @@ function writePassword () {
 
 }
 
-// Add event listener to generate button
+// Add event listener to generate button.
 generateBtn.addEventListener("click", writePassword);

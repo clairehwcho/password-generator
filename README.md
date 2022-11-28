@@ -5,7 +5,7 @@
 ## Description
 
 This is a password generator with responsive layouts.
-User will be presented with a series of prompts to choose password criteria such as the length of password or the character type to be included in the password. The input will be validated, and a random string of password that matches the selected criteria will be generated
+User will be presented with a series of prompts to choose password criteria such as the length of password or the character type to be included in the password. The input will be validated, and a random string of password that matches the selected criteria will be generated.
 <br>
 <br>
 You can check out the deployed application from the link below:
